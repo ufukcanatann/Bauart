@@ -1,0 +1,798 @@
+[
+    {
+        "id": "querencia-long-beach",
+        "title": "QUERENCIA LONG BEACH PROJECT",
+        "employer": "QUERENCIA LONG BEACH_TCV CONSTRUCTION",
+        "location": "YENİ BOĞAZİÇİ-KKTC",
+        "construction_area": "80,000 m2",
+        "project_complete": "On Going",
+        "project_info": [
+            "All civil and finishing works",
+            "All Landscaping and pool works",
+            "Floor screed works and ceramic coating manufacturing",
+            "Building steelwork and roof",
+            "Roof coverings, exterior wall manufacturing and sheathing works",
+            "Facade Works"
+        ],
+        "images": [
+            "querencia-1.png",
+            "querencia-2.png",
+            "querencia-3.png",
+            "querencia-4.jpg",
+            "querencia-5.jpg",
+            "querencia-6.jpg",
+            "querencia-7.jpg"
+        ],
+        "link": "projects/project-details.php?project=0"
+    },
+    {
+        "id": "bogaztepe-villa",
+        "title": "BOĞAZTEPE VILLA PROJECT",
+        "employer": "BOĞAZTEPE VILLA",
+        "location": "İSKELE-BOĞAZTEPE",
+        "construction_area": "500 m2",
+        "project_complete": "On Going",
+        "project_info": [
+            "All civil and finishing works",
+            "All Landscaping and pool works",
+            "Floor screed works and ceramic coating manufacturing",
+            "Building steelwork and roof",
+            "Roof coverings, exterior wall manufacturing and sheathing works",
+            "Facade Works"
+        ],
+        "images": [
+            "bogaztepe-1.jpg",
+            "bogaztepe-2.jpg",
+            "bogaztepe-3.jpg"
+        ],
+        "link": "projects/project-details.php?project=1"
+    },
+    {
+        "id": "azure-villa",
+        "title": "AZURE VILLA PROJECT",
+        "employer": "AZURE VİLLA_DRN CONSTRUCTIN",
+        "location": "ALSANCAK-KKTC",
+        "construction_area": "4,500 m2",
+        "project_complete": "On Going",
+        "project_info": [
+            "All civil and finishing works",
+            "All Landscaping and pool works",
+            "Floor screed works and ceramic coating manufacturing",
+            "Building steelwork and roof",
+            "Roof coverings, exterior wall manufacturing and sheathing works",
+            "Facade Works"
+        ],
+        "images": [
+            "azure-1.jpg",
+            "azure-1.jpg"
+        ],
+        "link": "projects/project-details.php?project=2"
+    },
+    {
+        "id": "era-park-evleri",
+        "title": "ERA PARK EVLERI PROJECT",
+        "employer": "ERA PARK EVLERI_ASFEN INŞAAT",
+        "location": "YENİ BOĞAZİÇİ-KKTC",
+        "construction_area": "6,000 m2",
+        "project_complete": "On Going",
+        "project_info": [
+            "All civil and finishing works",
+            "All Landscaping and pool works",
+            "Floor screed works and ceramic coating manufacturing",
+            "Building steelwork and roof",
+            "Roof coverings, exterior wall manufacturing and sheathing works",
+            "Facade Works"
+        ],
+        "images": [
+            "era-park-1.jpg",
+            "era-park-2.jpg",
+            "era-park-3.jpg",
+            "era-park-4.jpg",
+            "era-park-5.jpg",
+            "era-park-6.jpg",
+            "era-park-7.jpg"
+        ],
+        "link": "projects/project-details.php?project=3"
+    },
+    {
+        "id": "sirena-marine-yacht-factory",
+        "title": "SIRENA MARINE YACHT FACTORY PROJECT",
+        "employer": "KOÇ HOLDING_SIRENA MARINE_ARK INSAAT",
+        "location": "ORHANGAZI-BURSA",
+        "construction_area": "80,000 m2",
+        "project_complete": "March 2024",
+        "project_info": [
+            "Facade and Roofing Works"
+        ],
+        "images": [
+            "sirena-marine-yacht-factory-1.png",
+            "sirena-marine-yacht-factory-2.jpg",
+            "sirena-marine-yacht-factory-3.jpg",
+            "sirena-marine-yacht-factory-4.jpg",
+            "sirena-marine-yacht-factory-5.jpg",
+            "sirena-marine-yacht-factory-6.jpg",
+            "sirena-marine-yacht-factory-7.jpg",
+            "sirena-marine-yacht-factory-8.jpg",
+            "sirena-marine-yacht-factory-9.jpg",
+            "sirena-marine-yacht-factory-10.jpg",
+            "sirena-marine-yacht-factory-11.jpg",
+            "sirena-marine-yacht-factory-12.jpg",
+            "sirena-marine-yacht-factory-13.jpg"
+        ],
+        "link": "projects/project-details.php?project=4"
+    },
+    {
+        "id": "antalya-airport-expansion-and-improvement-work",
+        "title": "ANTALYA AIRPORT EXPANSION AND IMPROVEMENT WORK PROJECT & VIP & DKE BUILDINGS",
+        "employer": "DHMİ _ TAV SERA",
+        "location": "ANTALYA AIRPORT",
+        "construction_area": "12,500 m2",
+        "project_complete": "November 2023",
+        "project_info": [
+            "All civil and finishing works",
+            "Facade Works"
+        ],
+        "images": [
+            "antalya-airport-1.jpg",
+            "antalya-airport-2.jpg",
+            "antalya-airport-3.jpg",
+            "antalya-airport-4.jpg",
+            "antalya-airport-5.jpg",
+            "antalya-airport-6.jpg",
+            "antalya-airport-7.jpg",
+            "antalya-airport-8.jpg",
+            "antalya-airport-9.jpg",
+            "antalya-airport-10.jpg"
+        ],
+        "link": "projects/project-details.php?project=5"
+    },
+    {
+        "id": "iufm-official-institution-buildings",
+        "title": "IUFM OFFICIAL INSTITUTION BUILDINGS PROJECT",
+        "employer": "ISTANBUL ULUSLAR ARASI FINANS MERKEZİ_YILDIZLAR GRUP",
+        "location": "ATAŞEHIR-İSTANBUL",
+        "construction_area": "25.000 m2",
+        "project_complete": "April 2023",
+        "project_info": [
+            "All civil and finishing works",
+            "Facade Works"
+        ],
+        "images": [
+            "iufm-official-institution-1.jpg",
+            "iufm-official-institution-2.jpg",
+            "iufm-official-institution-3.jpg",
+            "iufm-official-institution-4.jpg",
+            "iufm-official-institution-5.jpg",
+            "iufm-official-institution-6.jpg",
+            "iufm-official-institution-7.jpg",
+            "iufm-official-institution-8.jpg",
+            "iufm-official-institution-9.jpg",
+            "iufm-official-institution-10.jpg",
+            "iufm-official-institution-11.jpg",
+            "iufm-official-institution-12.jpg",
+            "iufm-official-institution-13.jpg",
+            "iufm-official-institution-14.jpg",
+            "iufm-official-institution-15.jpg"
+        ],
+        "link": "projects/project-details.php?project=6"
+    },
+    {
+        "id": "kirazalti-houses",
+        "title": "KIRAZALTI HOUSES PROJECT",
+        "employer": "BOSTANCIOĞLUARCHITECTURE",
+        "location": "BALABAN/KARTEPE",
+        "construction_area": "2 VILLAS / 6,500 m2",
+        "project_complete": "August 2022",
+        "project_info": [
+            "All civil and finishing works",
+            "Facade and Roofing Works",
+            "All Landscaping and pool works"
+        ],
+        "images": [
+            "kirazalti-houses-1.jpg",
+            "kirazalti-houses-2.jpg",
+            "kirazalti-houses-3.jpg",
+            "kirazalti-houses-4.jpg",
+            "kirazalti-houses-5.jpg",
+            "kirazalti-houses-6.jpg",
+            "kirazalti-houses-7.jpg",
+            "kirazalti-houses-8.jpg",
+            "kirazalti-houses-9.jpg",
+            "kirazalti-houses-10.jpg",
+            "kirazalti-houses-11.jpg",
+            "kirazalti-houses-12.jpg",
+            "kirazalti-houses-13.jpg"
+        ],
+        "link": "projects/project-details.php?project=7"
+    },
+    {
+        "id": "cyprus-international-university",
+        "title": "CYPRUS INTERNATIONAL UNIVERSITY AMPHITHEATRE",
+        "employer": "DRNCONS.–LEVENTGROUP",
+        "location": "NICOSIA/TRNC",
+        "construction_area": "2,000 m2",
+        "project_complete": "June 2022",
+        "project_info": [
+            "All civil and finishing works",
+            "All Landscaping and pool works",
+            "Steel Roofing and Zinc Roofing Works"
+        ],
+        "images": [
+            "cyprus-international-university-amphitheatre-1.jpg",
+            "cyprus-international-university-amphitheatre-2.jpg",
+            "cyprus-international-university-amphitheatre-3.jpg",
+            "cyprus-international-university-amphitheatre-4.jpg",
+            "cyprus-international-university-amphitheatre-5.jpg"
+        ],
+        "link": "projects/project-details.php?project=8"
+    },
+    {
+        "id": "cyprus-international-university-multifaith-building",
+        "title": "CYPRUS  INTERNATIONAL  UNIVERSITY  MULTIFAITH BUILDING",
+        "employer": "DRNCONS.–LEVENTGROUP",
+        "location": "NICOSIA/TRNC",
+        "construction_area": "1,000 m2",
+        "project_complete": "April 2022",
+        "project_info": [
+            "All civil and finishing works",
+            "All Landscaping and pool works",
+            "Floor screed works and ceramic coating manufacturing",
+            "Building steelwork and roof",
+            "Roof coverings, exterior wall manufacturing and sheathing works",
+            "Facade Works"
+        ],
+        "images": [
+            "cyprus-international-university-multifaith-building-1.jpg",
+            "cyprus-international-university-multifaith-building-2.jpg",
+            "cyprus-international-university-multifaith-building-3.jpg",
+            "cyprus-international-university-multifaith-building-4.jpg"
+        ],
+        "link": "projects/project-details.php?project=9"
+    },
+    {
+        "id": "saritas-office-and-production",
+        "title": "SARITAS OFFICE  VE PRODUCTION  BUILDING",
+        "employer": "BERKOCONS./ISTANBUL",
+        "location": "GEBZE/ISTANBUL",
+        "construction_area": "5,000 m2",
+        "project_complete": "March 2022",
+        "project_info": [
+            "Sandwich Panel Coverings",
+            "All Facade stone and glass coatings",
+            "All steel Works and steel floors",
+            "Screed and Terrace Insulations"
+        ],
+        "images": [
+            "saritas-office-1.png",
+            "saritas-office-2.jpg",
+            "saritas-office-3.jpg",
+            "saritas-office-4.jpg",
+            "saritas-office-5.jpg",
+            "saritas-office-6.jpg",
+            "saritas-office-7.jpg",
+            "saritas-office-8.jpg"
+        ],
+        "link": "projects/project-details.php?project=10"
+    },
+    {
+        "id": "emlak-konut-koy-zekeriyakoy",
+        "title": "EMLAK KONUT KOY ZEKERIYAKOY PROJECT",
+        "employer": "EMLAK KONUT KOY ZEKERIYAKOY YILDIZLAR GRUP",
+        "location": "ZEKERIYAKOY-ISTANBUL",
+        "construction_area": "10,000 m2",
+        "project_complete": "October 2021",
+        "project_info": [
+            "All Facade stone and glass coatings",
+            "All steel Works and steelf loors"
+        ],
+        "images": [
+            "emlak-konut-1.jpg",
+            "emlak-konut-2.jpg",
+            "emlak-konut-3.jpg",
+            "emlak-konut-4.jpg",
+            "emlak-konut-5.jpg",
+            "emlak-konut-6.jpg",
+            "emlak-konut-7.jpg",
+            "emlak-konut-8.jpg",
+            "emlak-konut-9.jpg",
+            "emlak-konut-10.jpg",
+            "emlak-konut-11.jpg",
+            "emlak-konut-12.jpg",
+            "emlak-konut-13.jpg",
+            "emlak-konut-14.jpg",
+            "emlak-konut-15.jpg"
+        ],
+        "link": "projects/project-details.php?project=11"
+    },
+    {
+        "id": "mersin-forum-avm",
+        "title": "MERSIN FORUM AVM RENOVATION PROJECT",
+        "employer": "MERSIN FORUM AVM-MUTI CORPORATION",
+        "location": "YENIŞEHIR-MERSIN",
+        "construction_area": "5,500 m2",
+        "project_complete": "October 2020",
+        "project_info": [
+            "All civil and finishing works",
+            "All Landscaping and pool works",
+            "Floor screed works and ceramic coating manufacturing",
+            "Building steelwork and roof",
+            "Roof coverings, exterior wall manufacturing and sheathing works",
+            "Facade Works"
+        ],
+        "images": [
+            "mersin-forum-avm-1.jpg",
+            "mersin-forum-avm-2.png",
+            "mersin-forum-avm-3.png",
+            "mersin-forum-avm-4.png",
+            "mersin-forum-avm-5.png",
+            "mersin-forum-avm-6.png",
+            "mersin-forum-avm-7.png",
+            "mersin-forum-avm-8.png",
+            "mersin-forum-avm-9.png"
+        ],
+        "link": "projects/project-details.php?project=12"
+    },
+    {
+        "id": "nisantasi-nur-apartment",
+        "title": "NISANTASI NUR APARTMENT PROJECT",
+        "employer": "PANGALTI TICARET",
+        "location": "NISANTASI-ISTANBUL",
+        "construction_area": "2,500 m2",
+        "project_complete": "October 2020",
+        "project_info": [
+            "All civil and finishing works",
+            "All Landscaping and pool works",
+            "Floor screed works and ceramic coating manufacturing",
+            "Building steelwork and roof",
+            "Roof coverings, exterior wall manufacturing and sheathing works",
+            "Facade Works"
+        ],
+        "images": [
+            "nisantasi-nur-apartment-1.jpg",
+            "nisantasi-nur-apartment-2.jpg",
+            "nisantasi-nur-apartment-3.jpg",
+            "nisantasi-nur-apartment-4.jpg",
+            "nisantasi-nur-apartment-5.jpg",
+            "nisantasi-nur-apartment-6.jpg",
+            "nisantasi-nur-apartment-7.jpg",
+            "nisantasi-nur-apartment-8.jpg"
+        ],
+        "link": "projects/project-details.php?project=13"
+    },
+    {
+        "id": "king-salman-mosque",
+        "title": "KING SALMAN  MOSQUE / MALE",
+        "employer": "ALCE - TURMAXJV / MALDIVES",
+        "location": "MALE / MALDIVES",
+        "construction_area": "",
+        "project_complete": "January 2020",
+        "project_info": [
+            "All Structural Steel Works:Roof and creek steels,Minaret steel works, 500ton",
+            "Alum. Rib roof: 6.500m2 standing seam roof",
+            "Alum. glass facade and skylight: 1.500m2 fire resistant glass facade",
+            "Granite coatings: 3.200m2 hanger system granite coating"
+        ],
+        "images": [
+            "king-salman-1.png",
+            "king-salman-2.jpg",
+            "king-salman-3.jpg",
+            "king-salman-4.jpg",
+            "king-salman-5.jpg",
+            "king-salman-6.jpg",
+            "king-salman-7.jpg",
+            "king-salman-8.jpg",
+            "king-salman-9.jpg",
+            "king-salman-10.jpg",
+            "king-salman-11.jpg",
+            "king-salman-12.jpg",
+            "king-salman-13.jpg",
+            "king-salman-14.jpg"
+        ],
+        "link": "projects/project-details.php?project=14"
+    },
+    {
+        "id": "cyprus-international-university-dirty-laboratory",
+        "title": "CYPRUS INTERNATIONAL UNIVERSITY DIRTY LABORATORY",
+        "employer": "DRN CONS. - LEVENT GROUP / TRNC",
+        "location": "NICOSIA/TRNC",
+        "construction_area": "3,700 m2",
+        "project_complete": "September 2020",
+        "project_info": [
+            "All civil and finishing works",
+            "All Landscaping and pool works",
+            "Floor screed works and ceramic coating manufacturing",
+            "Building steelwork and roof",
+            "Roof coverings, exterior wall manufacturing and sheathing works",
+            "Facade Works"
+        ],
+        "images": [
+            "cyprus-international-university-dirty-laboratory-1.jpg",
+            "cyprus-international-university-dirty-laboratory-2.jpg",
+            "cyprus-international-university-dirty-laboratory-3.jpg",
+            "cyprus-international-university-dirty-laboratory-4.jpg",
+            "cyprus-international-university-dirty-laboratory-5.jpg",
+            "cyprus-international-university-dirty-laboratory-6.jpg",
+            "cyprus-international-university-dirty-laboratory-7.jpg",
+            "cyprus-international-university-dirty-laboratory-8.jpg",
+            "cyprus-international-university-dirty-laboratory-9.jpg",
+            "cyprus-international-university-dirty-laboratory-10.jpg"
+        ],
+        "link": "projects/project-details.php?project=15"
+    },
+    {
+        "id": "tupras-head-office-building",
+        "title": "",
+        "employer": "KOC HOLDING_ARK INSAAT",
+        "location": "MECİDİYEKÖY/ISTANBUL",
+        "construction_area": "",
+        "project_complete": "Mayıs 2019",
+        "project_info": [
+            "All civil and finishing works",
+            "All Landscaping and pool works",
+            "Floor screed works and ceramic coating manufacturing",
+            "Building steelwork and roof",
+            "Roof coverings, exterior wall manufacturing and sheathing works",
+            "Facade Works"
+        ],
+        "images": [
+            "tupras-head-office-1.png",
+            "tupras-head-office-2.jpg",
+            "tupras-head-office-3.jpg",
+            "tupras-head-office-4.jpg",
+            "tupras-head-office-5.jpg",
+            "tupras-head-office-6.jpg",
+            "tupras-head-office-7.jpg",
+            "tupras-head-office-8.jpg"
+        ],
+        "link": "projects/project-details.php?project=16"
+    },
+    {
+        "id": "saritas-office-and-production-dudullu",
+        "title": "SARITAS  OFFICE  VE PRODUCTION  BUILDING",
+        "employer": "BERKO CONS. / ISTANBUL",
+        "location": "DUDULLU / ISTANBUL",
+        "construction_area": "",
+        "project_complete": "March 2019",
+        "project_info": [
+            "All Steel Works",
+            "- Sandwich Panel Coverings",
+            "Exterior Shell Works : 4.000 m2 Aluminyum Facade Works , 1.500 mt sun breaker, skylight",
+            "Railing Works : Exterior terrace and interior stairs",
+            "Screed and Terrace Insulations"
+        ],
+        "images": [
+            "saritas-office-dudullu-1.png",
+            "saritas-office-dudullu-2.jpg",
+            "saritas-office-dudullu-3.jpg",
+            "saritas-office-dudullu-4.jpg",
+            "saritas-office-dudullu-5.jpg",
+            "saritas-office-dudullu-6.jpg",
+            "saritas-office-dudullu-7.jpg",
+            "saritas-office-dudullu-8.jpg"
+        ],
+        "link": "projects/project-details.php?project=17"
+    },
+    {
+        "id": "galata-44-parcel-apartment",
+        "title": "44 PARCEL  APARTMENT PROJECT",
+        "employer": "CENEVİZ REAL ESTATE",
+        "location": "GALATA / ISTANBUL",
+        "construction_area": "",
+        "project_complete": "April 2020",
+        "project_info": [
+            "All civil and finishing works",
+            "All Landscaping and pool works",
+            "Floor screed works and ceramic coating manufacturing",
+            "Building steelwork and roof",
+            "Roof coverings, exterior wall manufacturing and sheathing works",
+            "Facade Works"
+        ],
+        "images": [
+            "galata-44-1.png",
+            "galata-44-2.jpg",
+            "galata-44-3.jpg",
+            "galata-44-4.jpg",
+            "galata-44-5.jpg",
+            "galata-44-6.jpg",
+            "galata-44-7.jpg",
+            "galata-44-8.jpg",
+            "galata-44-9.jpg",
+            "galata-44-10.jpg"
+        ],
+        "link": "projects/project-details.php?project=18"
+    },
+    {
+        "id": "galata-95-parcel-apartment",
+        "title": "95 PARCEL  APARTMENT PROJECT",
+        "employer": "CENEVİZ REAL ESTATE",
+        "location": "GALATA / ISTANBUL",
+        "construction_area": "",
+        "project_complete": "January 2018",
+        "project_info": [
+            "All civil and finishing works",
+            "All Landscaping and pool works",
+            "Floor screed works and ceramic coating manufacturing",
+            "Building steelwork and roof",
+            "Roof coverings, exterior wall manufacturing and sheathing works",
+            "Facade Works"
+        ],
+        "images": [
+            "galata-95-1.png",
+            "galata-95-2.jpg",
+            "galata-95-3.jpg",
+            "galata-95-4.jpg",
+            "galata-95-5.jpg",
+            "galata-95-6.jpg",
+            "galata-95-7.jpg",
+            "galata-95-8.jpg",
+            "galata-95-9.jpg",
+            "galata-95-10.jpg",
+            "galata-95-11.jpg",
+            "galata-95-12.jpg",
+            "galata-95-13.jpg"
+        ],
+        "link": "projects/project-details.php?project=19"
+    },
+    {
+        "id": "galata-82-parcel-apartment",
+        "title": "82 PARCEL APARTMENT PROJECT",
+        "employer": "BERKOLON REAL ESTATE",
+        "location": "GALATA / ISTANBUL",
+        "construction_area": "",
+        "project_complete": "March 2018",
+        "project_info": [
+            "All civil and finishing works",
+            "All Landscaping and pool works",
+            "Floor screed works and ceramic coating manufacturing",
+            "Building steelwork and roof",
+            "Roof coverings, exterior wall manufacturing and sheathing works",
+            "Facade Works"
+        ],
+        "images": [
+            "galata-82-1.png",
+            "galata-82-2.jpg",
+            "galata-82-3.jpg",
+            "galata-82-4.jpg",
+            "galata-82-5.jpg",
+            "galata-82-6.jpg",
+            "galata-82-7.jpg",
+            "galata-82-8.jpg",
+            "galata-82-9.jpg",
+            "galata-82-10.jpg",
+            "galata-82-11.jpg",
+            "galata-82-12.jpg",
+            "galata-82-13.jpg"
+        ],
+        "link": "projects/project-details.php?project=20"
+    },
+    {
+        "id": "balmumcu-office",
+        "title": "BALMUMCU  OFFICE PROJECT",
+        "employer": "BÜYÜK REAL ESTATE / ISTANBUL",
+        "location": "BALMUMCU / ISTANBUL",
+        "construction_area": "6,500 m2",
+        "project_complete": "May 2017",
+        "project_info": [
+            "All civil and finishing works",
+            "All Landscaping and pool works",
+            "Floor screed works and ceramic coating manufacturing",
+            "Building steelwork and roof",
+            "Roof coverings, exterior wall manufacturing and sheathing works",
+            "Facade Works"
+        ],
+        "images": [
+            "balmumcu-office-1.png",
+            "balmumcu-office-2.jpg",
+            "balmumcu-office-3.jpg",
+            "balmumcu-office-4.jpg",
+            "balmumcu-office-5.jpg",
+            "balmumcu-office-6.jpg",
+            "balmumcu-office-7.jpg",
+            "balmumcu-office-8.jpg"
+        ],
+        "link": "projects/project-details.php?project=21"
+    },
+    {
+        "id": "kagithane-office",
+        "title": "KAGITHANE  OFFICE PROJECT",
+        "employer": "BÜYÜK REAL ESTATE / ISTANBUL",
+        "location": "KAĞITHANE / ISTANBUL",
+        "construction_area": "10,500 m2",
+        "project_complete": "April 2016",
+        "project_info": [
+            "All civil and finishing works",
+            "All Landscaping and pool works",
+            "Floor screed works and ceramic coating manufacturing",
+            "Building steelwork and roof",
+            "Roof coverings, exterior wall manufacturing and sheathing works",
+            "Facade Works"
+        ],
+        "images": [
+            "kagithane-office-1.png",
+            "kagithane-office-2.jpg",
+            "kagithane-office-3.jpg",
+            "kagithane-office-4.jpg",
+            "kagithane-office-5.jpg",
+            "kagithane-office-6.jpg",
+            "kagithane-office-7.jpg",
+            "kagithane-office-8.jpg",
+            "kagithane-office-9.jpg",
+            "kagithane-office-10.jpg",
+            "kagithane-office-11.jpg",
+            "kagithane-office-12.jpg",
+            "kagithane-office-13.jpg"
+        ],
+        "link": "projects/project-details.php?project=22"
+    },
+    {
+        "id": "aydin-holding-headquerter",
+        "title": "AYDIN HOLDİNG HEADQUARTER PROJECT",
+        "employer": "AYDIN HOLDİNG HEADQUARTERS",
+        "location": "BURHANIYE/ ISTANBUL",
+        "construction_area": "",
+        "project_complete": "December 2016",
+        "project_info": [
+            "All civil and finishing works",
+            "All Landscaping and pool works",
+            "Floor screed works and ceramic coating manufacturing",
+            "Building steelwork and roof",
+            "Roof coverings, exterior wall manufacturing and sheathing works",
+            "Facade Works"
+        ],
+        "images": [
+            "aydin-holding-headquarter-1.png",
+            "aydin-holding-headquarter-2.jpg",
+            "aydin-holding-headquarter-3.jpg",
+            "aydin-holding-headquarter-4.jpg",
+            "aydin-holding-headquarter-5.jpg",
+            "aydin-holding-headquarter-6.jpg",
+            "aydin-holding-headquarter-7.jpg",
+            "aydin-holding-headquarter-8.jpg",
+            "aydin-holding-headquarter-9.jpg"
+        ],
+        "link": "projects/project-details.php?project=23"
+    },
+    {
+        "id": "toros-social-facility-ceyhan",
+        "title": "TOROS SOCIAL  FACILITY / CEYHAN PROJECT",
+        "employer": "ARCHITECT ATÖLYE",
+        "location": "CEYHAN / ADANA",
+        "construction_area": "",
+        "project_complete": "December 2015",
+        "project_info": [
+            "All civil and finishing works",
+            "All Landscaping and pool works",
+            "Floor screed works and ceramic coating manufacturing",
+            "Building steelwork and roof",
+            "Roof coverings, exterior wall manufacturing and sheathing works",
+            "Facade Works"
+        ],
+        "images": [
+            "toros-social-facility-ceyhan-1.png",
+            "toros-social-facility-ceyhan-2.jpg",
+            "toros-social-facility-ceyhan-3.jpg",
+            "toros-social-facility-ceyhan-4.jpg",
+            "toros-social-facility-ceyhan-5.jpg",
+            "toros-social-facility-ceyhan-6.jpg",
+            "toros-social-facility-ceyhan-7.jpg",
+            "toros-social-facility-ceyhan-8.jpg",
+            "toros-social-facility-ceyhan-9.jpg",
+            "toros-social-facility-ceyhan-10.jpg",
+            "toros-social-facility-ceyhan-11.jpg"
+        ],
+        "link": "projects/project-details.php?project=24"
+    },
+    {
+        "id": "kat-mekatronik-management",
+        "title": "KAT MEKATRONİK MANAGEMENT BUILDING",
+        "employer": "KAT MEKATRONIK",
+        "location": "ISTANBUL/ ÇATALCA",
+        "construction_area": "",
+        "project_complete": "September 2015",
+        "project_info": [
+            "All civil and finishing works",
+            "All Landscaping and pool works",
+            "Floor screed works and ceramic coating manufacturing",
+            "Building steelwork and roof",
+            "Roof coverings, exterior wall manufacturing and sheathing works",
+            "Facade Works"
+        ],
+        "images": [
+            "kat-mekatronik-management-1.png",
+            "kat-mekatronik-management-2.jpg",
+            "kat-mekatronik-management-3.jpg",
+            "kat-mekatronik-management-4.jpg",
+            "kat-mekatronik-management-5.jpg",
+            "kat-mekatronik-management-6.jpg",
+            "kat-mekatronik-management-7.jpg",
+            "kat-mekatronik-management-8.jpg",
+            "kat-mekatronik-management-9.jpg",
+            "kat-mekatronik-management-10.jpg",
+            "kat-mekatronik-management-11.jpg",
+            "kat-mekatronik-management-12.jpg",
+            "kat-mekatronik-management-13.jpg",
+            "kat-mekatronik-management-14.jpg",
+            "kat-mekatronik-management-15.jpg",
+            "kat-mekatronik-management-16.jpg"
+        ],
+        "link": "projects/project-details.php?project=25"
+    },
+    {
+        "id": "toros-social-facility-adana",
+        "title": "TOROS SOCIAL  FACILITY / ADANA",
+        "employer": "ARCHITECT ATÖLYE",
+        "location": "ADANA",
+        "construction_area": "",
+        "project_complete": "July 2014",
+        "project_info": [
+            "All civil and finishing works",
+            "All Landscaping and pool works",
+            "Floor screed works and ceramic coating manufacturing",
+            "Building steelwork and roof",
+            "Roof coverings, exterior wall manufacturing and sheathing works",
+            "Facade Works"
+        ],
+        "images": [
+            "toros-social-facility-adana-1.png",
+            "toros-social-facility-adana-2.jpg",
+            "toros-social-facility-adana-3.jpg",
+            "toros-social-facility-adana-4.jpg",
+            "toros-social-facility-adana-5.jpg",
+            "toros-social-facility-adana-6.jpg",
+            "toros-social-facility-adana-7.jpg",
+            "toros-social-facility-adana-8.jpg",
+            "toros-social-facility-adana-9.jpg"
+        ],
+        "link": "projects/project-details.php?project=26"
+    },
+    {
+        "id": "eti-factory-dining-hall-building",
+        "title": "ETİ FACTORY DINING HALL BUILDING",
+        "employer": "BERKO CONS.",
+        "location": "ESKİŞEHİR",
+        "construction_area": "",
+        "project_complete": "April 2014",
+        "project_info": [
+            "All civil and finishing works",
+            "All Landscaping and pool works",
+            "Floor screed works and ceramic coating manufacturing",
+            "Building steelwork and roof",
+            "Roof coverings, exterior wall manufacturing and sheathing works",
+            "Facade Works"
+        ],
+        "images": [
+            "eti-factory-dining-hall-building-1.png",
+            "eti-factory-dining-hall-building-2.jpg",
+            "eti-factory-dining-hall-building-3.jpg",
+            "eti-factory-dining-hall-building-4.jpg",
+            "eti-factory-dining-hall-building-5.jpg",
+            "eti-factory-dining-hall-building-6.jpg"
+        ],
+        "link": "projects/project-details.php?project=27"
+    },
+    {
+        "id": "bomonti-ada-renovation",
+        "title": "BOMONTİ ADA RENOVATION",
+        "employer": "OĞUZBEYAZIT ARCHITECTURE",
+        "location": "MECİDİYEKÖY / ISTANBUL",
+        "construction_area": "",
+        "project_complete": "September 2014",
+        "project_info": [
+            "All civil and finishing works",
+            "All Landscaping and pool works",
+            "Floor screed works and ceramic coating manufacturing",
+            "Building steelwork and roof",
+            "Roof coverings, exterior wall manufacturing and sheathing works",
+            "Facade Works"
+        ],
+        "images": [
+            "bomonti-ada-renovation-1.png",
+            "bomonti-ada-renovation-2.jpg",
+            "bomonti-ada-renovation-3.jpg",
+            "bomonti-ada-renovation-4.jpg",
+            "bomonti-ada-renovation-5.jpg",
+            "bomonti-ada-renovation-6.jpg"
+        ],
+        "link": "projects/project-details.php?project=28"
+    }
+]
